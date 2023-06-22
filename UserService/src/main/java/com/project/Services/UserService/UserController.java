@@ -12,7 +12,7 @@ import java.util.UUID;
 @RequestMapping("/api/s1")
 class UserController {
     private Connection connection;
-    private final String DB_URL = "jdbc:sqlite:authorization.db";
+    private final String DB_URL = "jdbc:sqlite:C:/sqlite/db/authorization.db";
 
     private void connect() throws SQLException {
         connection = DriverManager.getConnection(DB_URL);
