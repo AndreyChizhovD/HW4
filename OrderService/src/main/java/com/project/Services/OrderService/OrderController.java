@@ -13,7 +13,7 @@ import java.util.List;
 @RequestMapping("/api/s2")
 public class OrderController {
     private Connection connection;
-    private final String DB_URL = "jdbc:sqlite:authorization.db";
+    private final String DB_URL = "jdbc:sqlite:C:/sqlite/db/authorization.db";
 
     private void connect() throws SQLException {
         connection = DriverManager.getConnection(DB_URL);
