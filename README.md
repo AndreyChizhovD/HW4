@@ -9,7 +9,7 @@
 DB_URL = "jdbc:sqlite:C:/sqlite/db/authorization.db"
 ```
 
-### Postman
+### Postman (updated)
 https://www.postman.com/science-candidate-13655352/workspace/hw4/collection/28112087-64eeca1d-6b43-4691-bc8b-9d263604d28b?action=share&creator=28112087
 ### Postman documentation
 https://documenter.getpostman.com/view/28112087/2s93z3gm3z
