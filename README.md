@@ -5,7 +5,9 @@
 
 Управление сессией клиента происходит с помощью JWT-токена. Статус аутентификации пользователя активен в течение 5 минут.
 
-DB_URL="jdbc:sqlite:C:/sqlite/db/authorization.db"
+```java
+DB_URL = "jdbc:sqlite:C:/sqlite/db/authorization.db"
+```
 
 ### Postman
 https://www.postman.com/science-candidate-13655352/workspace/hw4/collection/28112087-64eeca1d-6b43-4691-bc8b-9d263604d28b?action=share&creator=28112087
